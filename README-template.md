@@ -55,7 +55,7 @@ Users should be able to:
 .fullpicture{
     box-shadow: 6px 6px 0 black;
 }
-
+```
 
 
 ### AI Collaboration
