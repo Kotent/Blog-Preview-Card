@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    max-width: 100%;
+}
+
+.body{
+    height: 100vh;
+    width: 100vw;
+    background-color:  hsl(47, 88%, 63%) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.fullpicture{
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 6px 6px 0 black;
+}
+
+.picture{
+    border-radius: 10px;
+    width: 250px;
+}
+.learning{
+   font-size: 10px;
+   background-color: hsl(47, 88%, 63%) ;
+   width: fit-content;
+   margin-top: 15px;
+   padding: 5px;
+   padding-right: 10px;
+   border-radius: 4px;
+   font-weight: 800;
+}
+
+.published{
+    margin-top: 10px;
+    width: fit-content;
+    font-size: 8px;
+}
+
+.html{
+    width: fit-content;
+    font-size: 16px;
+    margin-top: 11px;
+}
+
+.paragraph{
+    margin-top: 11px;
+    font-size: 11px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: fit-content;
+}
+
+.user{
+    display: flex;
+    margin-top: 16px;
+    font-weight: 500;
+     width: fit-content;
+}
+
+.icon{
+    width: 30px;
+}
+
+.greg{
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
