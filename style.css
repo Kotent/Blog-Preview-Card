@@ -50,6 +50,10 @@
     margin-top: 11px;
 }
 
+.html:hover{
+    color: hsl(47, 87%, 66%);
+    cursor: pointer;
+}
 .paragraph{
     margin-top: 11px;
     font-size: 11px;
